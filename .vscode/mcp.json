@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "visiondev": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "c:\\Users\\Anwender\\.vscode\\extensions\\sanidhyathakur.visiondev-0.2.1\\out\\server.js"
+      ],
+      "env": {
+        "VISIONDEV_WS_PORT": "51051"
+      }
+    }
+  }
+}

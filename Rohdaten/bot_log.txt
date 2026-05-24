@@ -1,0 +1,14 @@
+[2026-05-01 13:34:59] BOT_START | Bot wird gestartet
+[2026-05-01 13:35:53] GENERATE_START | User: 1056163238838009876, Guild: 1483248653127782531
+[2026-05-01 13:36:23] THREAD_CREATE_ERROR | Forum: Subterrel, Post: Info, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:23] THREAD_CREATE_ERROR | Forum: Subterrel, Post: Orbit, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:24] THREAD_CREATE_ERROR | Forum: Dorin, Post: Info, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:24] THREAD_CREATE_ERROR | Forum: Dorin, Post: Orbit, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:25] THREAD_CREATE_ERROR | Forum: Ossus, Post: Info, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:25] THREAD_CREATE_ERROR | Forum: Ossus, Post: Orbit, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:25] THREAD_CREATE_ERROR | Forum: Aleen, Post: Info, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:26] THREAD_CREATE_ERROR | Forum: Aleen, Post: Orbit, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:26] THREAD_CREATE_ERROR | Forum: Maridun, Post: Info, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:26] THREAD_CREATE_ERROR | Forum: Maridun, Post: Orbit, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:33] THREAD_CREATE_ERROR | Forum: Fondor, Post: Info, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
+[2026-05-01 13:36:34] THREAD_CREATE_ERROR | Forum: Fondor, Post: Orbit, Error: 400 Bad Request (error code: 50006): Cannot send an empty message
